@@ -41,16 +41,33 @@ This breaks down each lesson into the following five areas:
 * Deepening - the hands-on portion of the module
 * Synthesis - summary and wrap-up. For this curriculum, this is also where participants fill out the assessment.
 
+Trainers should consult "Recommended Preparations" before presenting each module. Most require secure WiFi. Remind participants to bring devices and chargers.  
+
 ## How long does it take?
-The course is designed to be modular. Allowing individual modules to be taken alone or a full course to be run. How long the course takes depends on many factors such as language, existing skills etc. However, we aim to make the entire course last at most five days. 
+The course is designed to be modular. Each module comes with a suggested time. Allowing individual modules to be taken alone or a full course to be run. How long the course takes depends on many factors such as language, existing skills etc. However, we aim to make the entire course last at most five days. 
 
 ## What does it cover?
 It is not just about digital issues, but also addresses things such as the security of physical information like paper documentation. We also discuss the important issues of how to design projects to ensure responsible collection of data and the ensuring privacy by design within projects.
 
 The course is broken into the following sections:
 
-•	[Introduction](introduction.md)  •	[Mapping information, assessing the threat environment and modelling](mapping.md)  •	[Privacy regulation and requirements](privacy.md)  •	[User Education](education.md)    
-•	[Encryption, Patching, Licensing](encryption.md)  •	[Network Management, Monitoring, WiFi and Logs](network.md)     •	[Communications](communications.md)   •	[Web and Email Management](webandemail.md)    •	[Password Management](passwords.md)    •	[Mobile Device Management / BYOD](byod.md)   •	[Travel](travel.md)   •	[Resilience and Backups](resilience.md)    •	[Policy Creation and Implementation](policy.md)     •	[Physical Security](physical.md)  •	[Responding to Incidents](incidents.md)     •	[Basic audits](audits.md)                                                          •	[Community structures and resources for further learning](community.md)
+•	[Introduction](introduction.md)  
+•	[Mapping information, assessing the threat environment and modelling](mapping.md)  
+•	[Privacy regulation and requirements](privacy.md)  
+•	[User Education](education.md)    
+•	[Encryption, Patching, Licensing](encryption.md)  
+•	[Network Management, Monitoring, WiFi and Logs](network.md)     
+•	[Communications](communications.md)   
+•	[Web and Email Management](webandemail.md)    
+•	[Password Management](passwords.md)    
+•	[Mobile Device Management / BYOD](byod.md)   
+•	[Travel](travel.md)   
+•	[Resilience and Backups](resilience.md)    
+•	[Policy Creation and Implementation](policy.md)     
+•	[Physical Security](physical.md)  
+•	[Responding to Incidents](incidents.md)     
+•	[Basic audits](audits.md)                                                          
+•	[Community structures and resources for further learning](community.md)
 
 ##Licence
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
