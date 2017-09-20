@@ -23,13 +23,13 @@ At a minimum we suggest that participants already have a basic knowledge of tool
 This course was created to help fill an identified need within the trainer community. We currently have many resources available for educating users (such as [Level-Up](https://level-up.cc/)), for implementing issues of organisational sececurity ([OrgSec community)](https://orgsec.community/#all-updates) and for auditing an organisation's security ([SAFETAG](https://safetag.org)). What we were missing though, was a curriculum to help people beging to learn how to manage an organisation's information security. That is what this curriculum aims to provide. 
 
 ## How does it work?
-The range of knowledge needed to manage information security is enormous and often outside the realm of what any individual could master even with years of training. As such, the curriculum is designed to:  
+The range of knowledge needed to manage information security is enormous and often outside the realm of what any individual could master even with years of training. As such, the curriculum is divided into "Learning Goals" and "Assessment Goals". Learning goals are designed to:  
  
 * Introduce individuals to a topic  
 * Develop a familarity with key approaches to dealing with the topic within their environment through class interaction and hands on research  
 * Leave a topic with a basic knowledge, resources and a developed support network that they can utilise for implementation at a later stage.
 
-Throughout the course, each participant also conducts a basic assessment of their own organisation that they build on for each module that they cover. This helps to a participant to maximise the utility of the course to their own circumstances and leave with an action plan for implementation at a later stage. So for example, a module on privacy will introduce some core concepts, then individuals conduct group work on what's relevant for their individual circumstance, assess how their own organisations deal with the issue and then record this and recommended actions in their assessment for use at a later date.
+To meet assessment goals, each participant also conducts a basic assessment of their own organisation that they build on for each module that they cover. This helps to a participant to maximise the utility of the course to their own circumstances and leave with an action plan for implementation at a later stage. So for example, a module on privacy will introduce some core concepts, then individuals conduct group work on what's relevant for their individual circumstance, assess how their own organisations deal with the issue and then record this and recommended actions in their assessment for use at a later date.
 
 This trainer curriculum follows the standard pedagogy approach to adult learning adopted by many within the information security training community - such as [Level-Up](https://level-up.cc/before-an-event/using-levelup-trainers-curriculum/).
 
