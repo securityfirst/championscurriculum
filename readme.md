@@ -51,25 +51,6 @@ It is not just about digital issues but also addresses things such as the securi
 
 The course is broken into the following sections:
 
-<<<<<<< Updated upstream
-•	[Introduction](introduction.md)  
-•	[Mapping information, assessing the threat environment and modelling](mapping.md)  
-•	[Privacy regulation and requirements](privacy.md)  
-•	[User Education](education.md)    
-•	[Encryption, Patching, Licensing](encryption.md)  
-•	[Network Management, Monitoring, WiFi and Logs](network.md)     
-•	[Communications](communications.md)   
-•	[Web and Email Management](webandemail.md)    
-•	[Password Management](passwords.md)    
-•	[Mobile Device Management / BYOD](byod.md)   
-•	[Travel](travel.md)   
-•	[Resilience and Backups](resilience.md)    
-•	[Policy Creation and Implementation](policy.md)     
-•	[Physical Security](physical.md)  
-•	[Responding to Incidents](incidents.md)     
-•	[Basic audits](audits.md)                                                          
-•	[Community structures and resources for further learning](community.md)
-=======
 •    [Introduction](readme.md)  
 •    [Mapping information, assessing the threat environment and modelling](mapping.md)  
 •    [Privacy regulation and requirements](privacy.md)  
@@ -87,7 +68,6 @@ The course is broken into the following sections:
 •    [Responding to Incidents](incidents.md)     
 •    [Basic audits](audits.md)                                                          
 •    [Community structures and resources for further learning](community.md)
->>>>>>> Stashed changes
 
 ##Licence
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
