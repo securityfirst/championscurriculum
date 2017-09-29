@@ -6,6 +6,7 @@ Welcome to the information security champion training and basic assessment curri
 
 ***Yes we know we used the word "Cyber" but the acronym was tricky to think up - open to better suggestions! :)***
 
+The project is a partnership between the [Institute for War and Peace Reporting](https://iwpr.net) and [Security First](https://secfirst.org)
 
 ## Who is this curriculum for?
 This curriculum is designed as a tool for trainers working with people within small NGOs and media organisations who find themselves tasked with the management of the day to day running of secure and private information. 
