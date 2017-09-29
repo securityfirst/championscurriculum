@@ -52,7 +52,7 @@ When building our layers of the physical security onion, we often tend to think 
 ***Security Strategies***   
 Security strategies used by civil society groups generally use one or more of the following methods:
 
-![Three Strategies](img/physical/threemethods.png)
+![Three Strategies](img/physical/threemethods.png) 
 Source: [The Holistic Security Manual](https://holistic-security.tacticaltech.org)
 
 * Acceptance - being welcomed within a community and without adversaries who may seek to do you or your organisation harm
