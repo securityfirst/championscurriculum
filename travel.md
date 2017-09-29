@@ -60,7 +60,7 @@ For example:
 ***VPN Choice***    
 VPN choice for an organisation is often tricky. Champions often find themselves asked questions about which services are best to use. [That One Privacy Site](https://thatoneprivacysite.net) has been created to make it easier to compare features such as privacy, cost, and logging.
 
-![That One Privacy Site](img/travel/oneprivacy.png)
+![That One Privacy Site](img/travel/oneprivacy.png) 
 *Example of the comparison on "That One Privacy Site"*
 
 ## Deepening   
