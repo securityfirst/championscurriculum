@@ -6,7 +6,9 @@
 Champions will have been conducting a form of small audit throughout this course with their assessment document. However, there are more established forms of an audit that exist in the information security field. This module is designed to introduce these, as a starting point for them potentially looking to conduct them in future.
 
 ### Learning Goals
-
+* Understand how to use the assessment document 
+* Understand benching marking tools
+* Introduce SAFETAG as the next step if they want to progress in future and conduct full audits
 
 ### Assessment Goals
 * Add lists of basic tools and resources for basic auditing
@@ -28,7 +30,7 @@ N/A
 
 Ask participants to download and run benchmarking tool. 
 
-![CIS-CAT Lite](img/audits/ciscatlite.jpg)
+![CIS-CAT Lite](img/audits/ciscatlite.jpg)  
 *Screenshot of CIS-CAT Lite performing an audit of Windows 7*
 
 We suggest the use of [CIS-CAT Lite](https://www.cisecurity.org) as it is free, very simple, cross-platform tool that individuals can use to quickly assess the security of the configuration on the devices they are using.
@@ -83,7 +85,7 @@ Developed by Internews, SAFETAG is a standard specifically designed for meeting 
 
 For many Champions on this course who implement the basic assessment they create, SAFETAG would be an excellent training and auditing goal for themselves and their organisations.
 
-![CIS-CAT Lite](img/audits/safetagaudit.jpeg)
+![CIS-CAT Lite](img/audits/safetagaudit.jpeg)   
 *The SAFETAG audit framework*
 
 ## Synthesis
