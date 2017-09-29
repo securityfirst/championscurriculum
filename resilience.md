@@ -56,7 +56,7 @@ Business continuity is defined as the capability of the organization to continue
 
 What sort of incidents do participants believe they would consider disruptive?
 
-![Nextcloud](img/resilience/nextcloud.png)
+![Nextcloud](img/resilience/nextcloud.png)  
 *Next Cloud is an open source, self-hosted backup tool*
 
 There are a number of methods for small organisations implementing simple methods for backups and resiliency. These include:
@@ -73,7 +73,7 @@ There are a number of methods for small organisations implementing simple method
 ***Business Continuity***
 An important aspect of ensuring an organisation is resilient, is the process of Business Continuity Planning (BCP). Many smaller civil society organisations feel that this is not relevant to them, however, plans do not have to be complex. Also, many organisations face a variety of threats unique to them - from office raids to hacktivists.
 
-![BCM Lifecycle](/Users/rorybyrne/Security First/Consultancy/Institute of War and Peace Reporting/Curriculum/img/resilience/bcmlifecycle.jpg)
+![BCM Lifecycle](img/resilience/bcmlifecycle.jpg)
 
 When working out the time periods It is recommended to divided the  is divided into segments of time such as the following:
 
