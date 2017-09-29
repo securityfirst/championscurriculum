@@ -2,7 +2,9 @@
 
 # Welcome
 
-Welcome to the information security champion training and basic assessment curriculum. The current working title for this project is OctoC - Curriculum for Creating Cyber-Security Champions and Compliance Checking in Civil Communities (***Yes we know we used the word "Cyber" but the acronym was tricky to think up - open to better suggestions! :)***).
+Welcome to the information security champion training and basic assessment curriculum. The current working title for this project is OctoC - Curriculum for Creating Cyber-Security Champions and Compliance Checking in Civil Communities 
+
+***Yes we know we used the word "Cyber" but the acronym was tricky to think up - open to better suggestions! :)***
 
 
 ## Who is this curriculum for?
